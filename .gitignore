@@ -1,0 +1,26 @@
+# Environment variables / API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Google ADK local/session data
+.adk/
+**/.adk/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ZIP files
+*.zip
